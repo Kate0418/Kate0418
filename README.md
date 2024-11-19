@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/-amazonrds-rgba(0,0,0,0)?logo=amazonrds&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-amazons3-rgba(0,0,0,0)?logo=amazons3&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-amazonroute53-rgba(0,0,0,0)?logo=amazonroute53&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-awselasticloadbalancing-rgba(0,0,0,0)?logo=awselasticloadbalancing&style=for-the-badge" />
 </div>
 
 ## デザインツール
@@ -46,22 +47,45 @@
 </div>
 
 ## 開発・運用ツール
-<div style="display: flex;"> <img src="https://img.shields.io/badge/-phpstorm-rgba(0,0,0,0)?logo=phpstorm&style=for-the-badge" /> <img src="https://img.shields.io/badge/-postman-rgba(0,0,0,0)?logo=postman&style=for-the-badge" /> <img src="https://img.shields.io/badge/-docker-rgba(0,0,0,0)?logo=docker&style=for-the-badge" /> <img src="https://img.shields.io/badge/-nginx-rgba(0,0,0,0)?logo=nginx&style=for-the-badge" /> <img src="https://img.shields.io/badge/-terraform-rgba(0,0,0,0)?logo=terraform&style=for-the-badge" /> <img src="https://img.shields.io/badge/-git-rgba(0,0,0,0)?logo=git&style=for-the-badge" /> <img src="https://img.shields.io/badge/-eslint-rgba(0,0,0,0)?logo=github&style=for-the-badge" /> <img src="https://img.shields.io/badge/-mamp-rgba(0,0,0,0)?logo=mamp&style=for-the-badge" /> <img src="https://img.shields.io/badge/-mamp-rgba(0,0,0,0)?logo=eslint&style=for-the-badge" /></div>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-phpstorm-rgba(0,0,0,0)?logo=phpstorm&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-postman-rgba(0,0,0,0)?logo=postman&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-docker-rgba(0,0,0,0)?logo=docker&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-nginx-rgba(0,0,0,0)?logo=nginx&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-terraform-rgba(0,0,0,0)?logo=terraform&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-git-rgba(0,0,0,0)?logo=git&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-github-rgba(0,0,0,0)?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-eslint-rgba(0,0,0,0)?logo=eslint&style=for-the-badge" />
+</div>
 
 ## テスト・デバッグ
-<div style="display: flex;"> <img src="https://img.shields.io/badge/-jest-rgba(0,0,0,0)?logo=jest&style=for-the-badge" /> <img src="https://img.shields.io/badge/-storybook-rgba(0,0,0,0)?logo=storybook&style=for-the-badge" /> </div>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-jest-rgba(0,0,0,0)?logo=jest&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-storybook-rgba(0,0,0,0)?logo=storybook&style=for-the-badge" />
+</div>
 
 ## フロントエンド関連
-<div style="display: flex;"> <img src="https://img.shields.io/badge/-tailwindcss-rgba(0,0,0,0)?logo=tailwindcss&style=for-the-badge" /> <img src="https://img.shields.io/badge/-jquery-rgba(0,0,0,0)?logo=jquery&style=for-the-badge" /> </div>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-tailwindcss-rgba(0,0,0,0)?logo=tailwindcss&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-jquery-rgba(0,0,0,0)?logo=jquery&style=for-the-badge" />
+</div>
 
 ## パッケージマネージャ
-<div style="display: flex;"> <img src="https://img.shields.io/badge/-composer-rgba(0,0,0,0)?logo=composer&style=for-the-badge" /> <img src="https://img.shields.io/badge/-npm-rgba(0,0,0,0)?logo=npm&style=for-the-badge" /> <img src="https://img.shields.io/badge/-yarn-rgba(0,0,0,0)?logo=yarn&style=for-the-badge" /> </div>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-composer-rgba(0,0,0,0)?logo=composer&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-npm-rgba(0,0,0,0)?logo=npm&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-yarn-rgba(0,0,0,0)?logo=yarn&style=for-the-badge" />
+</div>
 
 
 ## タスク管理・コラボレーション
-<div style="display: flex;"> <img src="https://img.shields.io/badge/-jira-rgba(0,0,0,0)?logo=jira&style=for-the-badge" /> <img src="https://img.shields.io/badge/-zenn-rgba(0,0,0,0)?logo=zenn&style=for-the-badge" /> </div>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-jira-rgba(0,0,0,0)?logo=jira&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-zenn-rgba(0,0,0,0)?logo=zenn&style=for-the-badge" />
+</div>
 
 ## その他
-<div style="display: flex;"> <img src="https://img.shields.io/badge/-jinja-rgba(0,0,0,0)?logo=jinja&style=for-the-badge" /> <img src="https://img.shields.io/badge/-turborepo-rgba(0,0,0,0)?logo=turborepo&style=for-the-badge" /> </div>
-
-
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-jinja-rgba(0,0,0,0)?logo=jinja&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-turborepo-rgba(0,0,0,0)?logo=turborepo&style=for-the-badge" />
+</div>
