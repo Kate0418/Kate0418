@@ -1,4 +1,4 @@
-![scroll](https://typograssy.deno.dev/api?text=%20418%20I'm%20a%20teapot%20&bg=0d1117&frame=ffffff&comment=418%20I'm%20a%20teapot)
+![scroll](https://typograssy.deno.dev/api?text=%20418%20I'm%20a%20teapot%20&bg=0d1117&frame=ffffff&comment=418%20I'm%20a%20teapot&l0=0d1117)
 
 # 自己紹介
 - KADOKAWAドワンゴ情報工科学院 2年次 中尾 渓斗
