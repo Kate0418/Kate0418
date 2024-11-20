@@ -28,6 +28,17 @@ http://nakao-keito.com:8003
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kate0418&repo=japa)](https://github.com/Kate0418/japa)
 
+出席アプリ（開発中）
+
+- バックエンド
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kate0418&repo=attendAppBack)](https://github.com/Kate0418/attendAppBack)
+
+- フロントエンド
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kate0418&repo=attendAppFront)](https://github.com/Kate0418/attendAppFront)
+
+
 <br />
 <br />
 
