@@ -8,6 +8,29 @@
 <br />
 <br />
 
+# 成果物
+### 以下公開サーバーは9:00~21:00の起動
+
+数式計算アプリ（初のアプリ）：
+http://nakao-keito.com:8001
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kate0418&repo=calculateApp)](https://github.com/Kate0418/calculateApp)
+
+
+モテ活アプリ（レスポンシブ❌PCのみ対応）：
+http://nakao-keito.com:8002
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantan-project&repo=motekatuApp)](https://github.com/vantan-project/motekatuApp)
+
+
+日本語プログラミング言語「JAPA」：
+http://nakao-keito.com:8003
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kate0418&repo=japa)](https://github.com/Kate0418/japa)
+
+<br />
+<br />
+
 # 技術スタック
 ## 言語
 <div style="display: flex;">
