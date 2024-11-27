@@ -78,8 +78,11 @@ http://nakao-keito.com:8003
   <img src="https://img.shields.io/badge/-amazonecs-0d1117?logo=amazonecs&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-amazonrds-0d1117?logo=amazonrds&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-amazons3-0d1117?logo=amazons3&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-amazonroute53-0d1117?logo=amazonroute53&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-awselasticloadbalancing-0d1117?logo=awselasticloadbalancing&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-amazonsqs-0d1117?logo=amazonsqs&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-amazonsimpleemailservice-0d1117?logo=amazonsimpleemailservice&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-amazoniam-0d1117?logo=amazoniam&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-amazonroute53-0d1117?logo=amazonroute53&style=for-the-badge" /
 </div>
 
 ## デザインツール
@@ -92,7 +95,6 @@ http://nakao-keito.com:8003
 
 ## 開発・運用ツール
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/-phpstorm-0d1117?logo=phpstorm&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-postman-0d1117?logo=postman&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-docker-0d1117?logo=docker&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-nginx-0d1117?logo=nginx&style=for-the-badge" />
