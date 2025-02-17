@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Kate0418/calculateApp#:~:text=README-,%E6%95%B0%E5%BC%8F%E8%A8%88%E7%AE%97%E3%82%A2%E3%83%97%E3%83%AA,-%E5%85%AC%E9%96%8BURL">
+      <a href="https://github.com/Kate0418/calculateApp?tab=readme-ov-file#%E6%95%B0%E5%BC%8F%E8%A8%88%E7%AE%97%E3%82%A2%E3%83%97%E3%83%AA">
         数式計算アプリ
       </a>
     </td>
     <td>
-      <a href="https://github.com/vantan-project/motekatuApp/tree/main#:~:text=README-,%E3%83%A2%E3%83%86%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA,-%E5%85%AC%E9%96%8BURL">
+      <a href="https://github.com/vantan-project/motekatuApp/tree/main?tab=readme-ov-file#%E3%83%A2%E3%83%86%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA">
         モテ活
       </a>
     </td>
@@ -34,7 +34,7 @@
 
   <tr>
     <td>
-      <a href="https://github.com/Kate0418/japa/tree/main#:~:text=README-,%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%80%8CJAPA%E3%80%8D,-%E5%85%AC%E9%96%8BURL">
+      <a href="https://github.com/Kate0418/japa/tree/main?tab=readme-ov-file#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EjapaL">
         日本語プログラミング言語「JAPA」
       </a>
     </td>
