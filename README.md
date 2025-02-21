@@ -72,7 +72,7 @@
       <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/d6705abc-34cf-4cbd-a086-373c0ba6b677" />
     </td>
     <td>
-      hoge
+      <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1b65dc1c-a9eb-4f22-84ed-c12dd284f4c3" />
     </td>
   </tr>
 </table>
