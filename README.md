@@ -10,16 +10,18 @@
 
 # 成果物
 ### 以下公開サーバーは9:00~21:00の起動（現在停止中）
+
+- **個人制作**
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/Kate0418/calculateApp?tab=readme-ov-file#%E6%95%B0%E5%BC%8F%E8%A8%88%E7%AE%97%E3%82%A2%E3%83%97%E3%83%AA">
         数式計算アプリ
       </a>
     </td>
     <td>
-      <a href="https://github.com/vantan-project/motekatuApp/tree/main?tab=readme-ov-file#%E3%83%A2%E3%83%86%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA">
-        モテ活
+      <a href="https://github.com/Kate0418/japa/tree/main?tab=readme-ov-file#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EjapaL">
+        日本語プログラミング言語「JAPA」
       </a>
     </td>
   </tr>
@@ -28,14 +30,40 @@
       <img width="1440" alt="トップ画面" src="https://github.com/user-attachments/assets/4fc797dd-5750-4e98-a593-8e2667327d68">
     </td>
     <td>
-      <img width="1440" alt="スクリーンショット 2024-12-21 15 46 43" src="https://github.com/user-attachments/assets/c3e774bd-aa6e-421a-b7f6-d3f6fdc26f19" />
+      <img width="1440" alt="スクリーンショット 2024-12-19 14 51 01" src="https://github.com/user-attachments/assets/44d15028-761f-4e59-b46a-074158df08c4" />
     </td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://github.com/Kate0418/japa/tree/main?tab=readme-ov-file#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EjapaL">
-        日本語プログラミング言語「JAPA」
+      <a href="https://github.com/Kate0418/libhub-front?tab=readme-ov-file#libhub">
+        LibHub
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Kate0418/kdg-platform-front?tab=readme-ov-file#kdg-%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0">
+        KDGプラットフォーム
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1b65dc1c-a9eb-4f22-84ed-c12dd284f4c3" />
+    </td>
+    <td>
+      <img alt="スクリーンショット 2025-01-05 1 42 38" src="https://github.com/user-attachments/assets/93fe7304-07c5-4bcc-9169-a9aa2aa58ee1" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+- **チーム制作**
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/vantan-project/motekatuApp/tree/main?tab=readme-ov-file#%E3%83%A2%E3%83%86%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA">
+        モテ活
       </a>
     </td>
     <td>
@@ -46,7 +74,7 @@
   </tr>
   <tr>
     <td>
-      <img width="1440" alt="スクリーンショット 2024-12-19 14 51 01" src="https://github.com/user-attachments/assets/44d15028-761f-4e59-b46a-074158df08c4" />
+      <img width="1440" alt="スクリーンショット 2024-12-21 15 46 43" src="https://github.com/user-attachments/assets/c3e774bd-aa6e-421a-b7f6-d3f6fdc26f19" />
     </td>
     <td>
       <img width="120px" height="auto" src="https://github.com/user-attachments/assets/8f4429f5-de2d-4182-bb0b-086b7f78fa31" />
@@ -61,18 +89,10 @@
         モバイルメニュー表作成アプリ
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Kate0418/libhub-front?tab=readme-ov-file#libhub">
-        LibHub
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
       <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/d6705abc-34cf-4cbd-a086-373c0ba6b677" />
-    </td>
-    <td>
-      <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1b65dc1c-a9eb-4f22-84ed-c12dd284f4c3" />
     </td>
   </tr>
 </table>
