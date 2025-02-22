@@ -9,7 +9,7 @@
 <br />
 
 # 成果物
-### ~~以下公開サーバーは9:00~21:00の起動~~
+### 以下公開サーバーは9:00~21:00の起動（現在停止中）
 <table>
   <tr>
     <td>
@@ -62,7 +62,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Kate0418/libhub-front">
+      <a href="https://github.com/Kate0418/libhub-front?tab=readme-ov-file#libhub">
         LibHub
       </a>
     </td>
