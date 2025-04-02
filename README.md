@@ -1,8 +1,7 @@
 ![scroll](https://typograssy.deno.dev/api?text=%20418%20I'm%20a%20teapot%20&bg=0d1117&frame=0d1117&comment=418%20I'm%20a%20teapot&l0=000000)
 
 # 自己紹介
-- KADOKAWAドワンゴ情報工科学院 2年次 中尾 渓斗
-- 26卒
+- KADOKAWAドワンゴ情報工科学院 3年次 中尾 渓斗
 - webフルスタック + クラウド
 
 <br />
